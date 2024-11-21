@@ -50,7 +50,7 @@ README.md            # Documentation file (this file)
 ```
 
 ## Example Screenshot
-![./image/Exp_interface.png]
+![](./image/Exp_interface.png)
 
 ## Customization
 - **Categories**: Modify the `categories` list to include your preferred expense categories.
